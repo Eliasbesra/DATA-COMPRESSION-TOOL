@@ -94,3 +94,4 @@ This **Run-Length Encoding (RLE) program** provides a simple yet effective way t
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/3c7060d3-6407-48fe-81f4-33077d537f72)
